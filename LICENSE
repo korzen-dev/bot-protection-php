@@ -1,0 +1,92 @@
+Korzen Bot Protection SDK Licence
+
+Copyright (c) 2026 LF Consultoria de Desenvolvimento e Operacional Ltda
+(CNPJ 58.117.575/0001-79), Olinda, PE, Brazil, which offers its services under the
+brand Korzen. All rights reserved.
+
+1. Definitions
+
+   "Korzen" means LF Consultoria de Desenvolvimento e Operacional Ltda, the copyright
+   holder named above.
+
+   "Software" means the software development kit published with this licence, in source
+   or compiled form, including its documentation and any part, copy or translation of it.
+
+   "Service" means Korzen Bot Protection and the other online services Korzen offers at
+   korzen.dev.
+
+   "You" means the person or legal entity that holds an account with the Service and uses
+   the Software, and the employees and contractors who use it on that holder's behalf.
+
+2. Grant
+
+   While You hold an account with the Service, Korzen grants You a non-exclusive,
+   non-transferable, non-sublicensable, revocable, royalty-free licence to install, copy
+   and run the Software, unmodified except as section 3(b) allows, as part of Your own
+   applications and servers, for the sole purpose of integrating those applications
+   with the Service.
+
+   You may make only the copies that this purpose needs, such as copies in Your source
+   repositories, build systems, package caches and deployed servers.
+
+   Korzen publishes the Software through package registries and their mirrors and
+   caches. Every copy of the Software, however obtained, is licensed only under this
+   licence, and a registry's or mirror's distribution of it grants You no further right.
+
+3. Restrictions
+
+   Except as section 2 expressly allows, You may not:
+
+   (a) copy, distribute, publish, sell, resell, rent, lease, lend, sublicense or otherwise
+       make the Software available to any third party, alone or as part of a product of
+       Your own whose purpose is to provide the Software or its functions to others;
+   (b) modify, translate, adapt or create derivative works of the Software, except where
+       the change is needed only to run the Software in Your own applications for the
+       purpose of section 2;
+   (c) use the Software, or any part of it, with any service other than the Service, or
+       to build, train, test or improve a product or service that competes with it;
+   (d) remove or alter this licence, the copyright notice, or any notice of origin in the
+       Software.
+
+   Anything You do with the Software that this licence does not expressly allow infringes
+   Korzen's copyright.
+
+4. Termination
+
+   This licence ends automatically when You no longer hold an account with the Service,
+   or when You breach it. When it ends, You must stop using the Software and delete every
+   copy of it within thirty (30) days.
+
+5. Ownership
+
+   The Software is licensed, not sold. Korzen keeps all right, title and interest in it,
+   including every copyright and other intellectual property right. No right is granted by
+   implication or otherwise beyond those stated here.
+
+6. No warranty
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NON-INFRINGEMENT, TO THE EXTENT THE APPLICABLE LAW ALLOWS.
+
+7. Limitation of liability
+
+   TO THE EXTENT THE APPLICABLE LAW ALLOWS, KORZEN IS NOT LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR ITS USE. NOTHING IN
+   THIS LICENCE LIMITS A LIABILITY THAT THE APPLICABLE LAW DOES NOT ALLOW TO BE LIMITED.
+
+8. The Service's terms
+
+   Your use of the Service itself is governed by the terms of service published at
+   https://korzen.dev. Where this licence and those terms conflict about the Software,
+   this licence prevails.
+
+9. Governing law
+
+   This licence is governed by the law, and subject to the courts, that the terms of
+   service at https://korzen.dev name for the Service.
+
+10. Severability
+
+   If a provision of this licence is held unenforceable, it is enforced to the greatest
+   extent the law allows, and the other provisions remain in force.
