@@ -1,0 +1,38 @@
+{
+    "name": "korzen/bot-protection",
+    "description": "Korzen Bot Protection for PHP: asks POST /v1/decide before a protected action and fails open. A PSR-15 middleware and a Laravel middleware.",
+    "type": "library",
+    "version": "2.0.0",
+    "license": "proprietary",
+    "homepage": "https://korzen.dev/bot-protection",
+    "keywords": [
+        "bot protection",
+        "bot detection",
+        "psr-15",
+        "middleware",
+        "laravel",
+        "korzen"
+    ],
+    "authors": [
+        {
+            "name": "Korzen",
+            "homepage": "https://korzen.dev"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "psr/http-factory": "^1.0",
+        "psr/http-message": "^1.1 || ^2.0",
+        "psr/http-server-middleware": "^1.0"
+    },
+    "suggest": {
+        "ext-curl": "bounds the whole call to Bot Protection by its timeout, the name lookup too; without it the stream transport bounds all but the lookup",
+        "symfony/http-foundation": "for the Laravel middleware, Korzen\\BotProtection\\Laravel\\Protect (Laravel brings it)"
+    },
+    "autoload": {
+        "psr-4": {
+            "Korzen\\BotProtection\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
